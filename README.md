@@ -1,6 +1,6 @@
-# Cloud-computing Paper-Review
 
 # Autoscaling Proactivo para Kubernetes
+
 
 Con el rápido desarrollo de la tecnología en la última década, el cloud computing ha ganado popularidad. La principal característica del cloud computing es la elasticidad, que permite a los propietarios de aplicaciones gestionar cargas de trabajo impredecibles, aprovisionando o desaprovisionando recursos según la demanda para mejorar el rendimiento mientras se reducen costos.
 
